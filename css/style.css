@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  margin: 70px 0;
+  color: #001026;
+}
+
+img{
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+}
